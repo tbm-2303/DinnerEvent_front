@@ -1,0 +1,16 @@
+1. us-5 
+2. hard reload  -> localstorage 
+3. rolesallowed
+4. fejlhåndtering
+5. test
+6. 
+
+
+delete!
+ 1. delete trip -> M2M remove
+
+remove!
+ 1. remove user from trip -> remove association on both sides.
+  
+change!
+ 1. change guide in trip -> remove association on both sides. + add new association.
